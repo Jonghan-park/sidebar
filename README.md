@@ -6,7 +6,7 @@
 
 # Purpose
 
-The purpose of the project is getting used to useState, useEffect and useContext
+The purpose of the project is getting used to useState, useEffect and useContext.
 
 # Environment
 
